@@ -1,1 +1,1 @@
-# VirSysMon_r_package
+# VirSysMon is an R package.
